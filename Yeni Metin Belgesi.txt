@@ -1,0 +1,1 @@
+python 3_predict.py -image test\benign\ISIC_0001168.jpg
